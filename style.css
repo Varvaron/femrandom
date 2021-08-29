@@ -48,7 +48,6 @@ body {
     background-color: #fff;
 }
 .output {
-    font: inherit;
     display: block;
     box-sizing: border-box;
     padding: 15px;
